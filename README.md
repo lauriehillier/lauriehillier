@@ -1,4 +1,7 @@
 ### Hi there 👋
+An ambitious and dedicated former head chef and food developer seeking new challenges in the tech industry with a strong interest in Full Stack Development. Recently completed a Skills Bootcamp with Northcoders learning new languages, front and back-end development and workplace methodologies.
+
+An experienced professional with a decade working for an expanding restaurant chain where I worked closely with the directors to deliver increased profits, improved efficiency and innovative processes as the company grew. Proven ability to manage a team and communicate new ideas in fast-paced, high pressure environments.
 
 <!--
 **lauriehillier/lauriehillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
